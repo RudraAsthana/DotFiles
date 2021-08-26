@@ -19,3 +19,10 @@ font:
     style: Bold Italic
 
   size: 11
+
+padding:
+    x: 6
+    y: 6
+
+
+dynamic_padding: false
