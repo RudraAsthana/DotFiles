@@ -1,3 +1,9 @@
+;;              __                                  __         
+;;   .----.----|__.--------.-----.-----.-----.---.-|  |_.-----.   GitHub: https://github.com/RudraAsthana
+;;   |  __|   _|  |        |__ --|  _  |     |  _  |   _|  -__|   Twitter: https://twitter.com/Crimsonate0
+;;   |____|__| |__|__|__|__|_____|_____|__|__|___._|____|_____|   
+
+
 ;;; init.el -*- lexical-binding: t; -*-
 
 ;; This file controls what Doom modules are enabled and what order they load

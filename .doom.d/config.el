@@ -46,6 +46,12 @@
 ;;   this file. Emacs searches the `load-path' when you load packages with
 ;;   `require' or `use-package'.
 ;; - `map!' for binding new keys
+;;              __                                  __         
+;;   .----.----|__.--------.-----.-----.-----.---.-|  |_.-----.   GitHub: https://github.com/RudraAsthana
+;;   |  __|   _|  |        |__ --|  _  |     |  _  |   _|  -__|   Twitter: https://twitter.com/Crimsonate0
+;;   |____|__| |__|__|__|__|_____|_____|__|__|___._|____|_____|   
+
+
 ;;
 ;; To get information about any of these functions/macros, move the cursor over
 ;; the highlighted symbol at press 'K' (non-evil users must press 'C-c c k').
