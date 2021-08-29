@@ -27,8 +27,9 @@ eval "$(starship init bash)"
 alias ls='exa -la'
 alias ..='cd ..'
 alias config='/usr/bin/git --git-dir=$HOME/DotFiles/ --work-tree=$HOME'
-complete -F _complete_alias config
+    complete -F _complete_alias config
 alias configu='config add -u'
+alias gitu='git add -u'
 
 
 #aliases to save me from doing dangerous stuff
