@@ -1,5 +1,7 @@
 # DotFiles
 
+![dotfiles-banner](banner-dotfiles.png)
+
 This is my repo for personal dotfiles!
 
 You can have a good look around them and observe and who 
