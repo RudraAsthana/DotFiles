@@ -45,5 +45,6 @@ alias cp='cp -i'
 #history
 HISTCONTROL=ignoreboth
 
+fm6000
 #mods end
 
