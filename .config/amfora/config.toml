@@ -7,7 +7,6 @@
 # It also shows all the default values, if you don't create the file.
 
 [a-general]
-home = "gemini://geminispace.info"
 color = true
 ansi = true
 bullets = true
