@@ -1,3 +1,9 @@
+#             __                                  __         
+#  .----.----|__.--------.-----.-----.-----.---.-|  |_.-----.   GitHub: https://github.com/RudraAsthana
+#  |  __|   _|  |        |__ --|  _  |     |  _  |   _|  -__|   Twitter: https://twitter.com/Crimsonate0
+#  |____|__| |__|__|__|__|_____|_____|__|__|___._|____|_____|   
+                                                           
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -98,6 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
+eval "$(starship init zsh)"
 # Rust path
 
 export PATH="$HOME/.cargo/env:$PATH"

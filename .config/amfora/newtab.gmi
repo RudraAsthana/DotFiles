@@ -15,3 +15,4 @@
 ## Gemini Capsules
 
 => gemini://distro.tube  DistroTube(on Gemini)
+or check out your bookmarks by pressing b on your keyboard.

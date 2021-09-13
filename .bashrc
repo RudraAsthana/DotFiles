@@ -4,7 +4,9 @@
 #  |____|__| |__|__|__|__|_____|_____|__|__|___._|____|_____|   
                                                            
 
-. "$HOME/.cargo/env"
+# Rust path
+
+export PATH="$HOME/.cargo/env:$PATH"
 
 # Ruby exports
 
@@ -21,14 +23,14 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 
-#mods
+# mods
 
-#terminal-prompt
+# terminal-prompt
 eval "$(starship init bash)"
 
-#aliases
+# aliases
 
-#handy aliases
+# handy aliases
 alias ls='exa -la'
 alias ..='cd ..'
 alias config='/usr/bin/git --git-dir=$HOME/DotFiles/ --work-tree=$HOME'
@@ -42,8 +44,8 @@ alias mv='mv -i'
 alias rm='rm -i'
 alias cp='cp -i'
 
-#history
+# history
 HISTCONTROL=ignoreboth
 
-#mods end
-
+# mod s end
+ 
