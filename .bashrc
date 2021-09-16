@@ -49,3 +49,5 @@ HISTCONTROL=ignoreboth
 
 # mod s end
  
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash

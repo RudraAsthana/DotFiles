@@ -140,3 +140,5 @@ alias gitu='git add -u'
 alias mv='mv -i'
 alias rm='rm -i'
 alias cp='cp -i'
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
