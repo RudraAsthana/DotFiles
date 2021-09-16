@@ -1,0 +1,218 @@
+{
+  "feeds": {
+    "gemini://gemini.lottalinuxlinks.com/posts/feed.xml": {
+      "title": "Gemlog Archive",
+      "feedLink": "gemini://gemini.lottalinuxlinks.com/posts/feed.xml",
+      "updated": "2021-03-13T00:00:00+00:00",
+      "updatedParsed": "2021-03-13T00:00:00Z",
+      "author": {
+        "name": "dsyates",
+        "email": "dsyates@lottalinuxlinks.com"
+      },
+      "items": [
+        {
+          "title": "Underground Hacking, Madness, and Obsession on the Electronic Frontier",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-14-underground-book.gmi"
+          ],
+          "updated": "2021-01-14T00:00:00+00:00",
+          "updatedParsed": "2021-01-14T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-14-underground-book.gmi"
+        },
+        {
+          "title": "checkrestart and needrestart",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-18-checkrestart-needrestart.gmi"
+          ],
+          "updated": "2021-01-18T00:00:00+00:00",
+          "updatedParsed": "2021-01-18T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-18-checkrestart-needrestart.gmi"
+        },
+        {
+          "title": "i3 scratchpad and vim like marks",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-20-i3-scratchpad-and-vim-like-marks.gmi"
+          ],
+          "updated": "2021-01-20T00:00:00+00:00",
+          "updatedParsed": "2021-01-20T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-20-i3-scratchpad-and-vim-like-marks.gmi"
+        },
+        {
+          "title": "Using Mastodon for comments on a static blog",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-23-using-mastodon-for-comments-on-a-static-blog.gmi"
+          ],
+          "updated": "2021-01-23T00:00:00+00:00",
+          "updatedParsed": "2021-01-23T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-23-using-mastodon-for-comments-on-a-static-blog.gmi"
+        },
+        {
+          "title": "Welcome to the MODcast",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-29-welcome-to-the-modcast.gmi"
+          ],
+          "updated": "2021-01-29T00:00:00+00:00",
+          "updatedParsed": "2021-01-29T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-29-welcome-to-the-modcast.gmi"
+        },
+        {
+          "title": "Fosstodon",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-31-fosstodon.gmi"
+          ],
+          "updated": "2021-01-31T00:00:00+00:00",
+          "updatedParsed": "2021-01-31T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-31-fosstodon.gmi"
+        },
+        {
+          "title": "How to build and install i3-gaps from source on debian",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-02-06-how-to-build-and-install-i3-gaps-on-debian.gmi"
+          ],
+          "updated": "2021-02-06T00:00:00+00:00",
+          "updatedParsed": "2021-02-06T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-02-06-how-to-build-and-install-i3-gaps-on-debian.gmi"
+        },
+        {
+          "title": "My gemini capsule has launched.",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-02-07-my-gemini-capsule-has-launched.gmi"
+          ],
+          "updated": "2021-02-07T00:00:00+00:00",
+          "updatedParsed": "2021-02-07T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-02-07-my-gemini-capsule-has-launched.gmi"
+        },
+        {
+          "title": "Adding a repurposed caps lock as a third mod key in i3",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-02-13-adding-a-repurposed-caps-lock-as-a-third-mod-key-in-i3.gmi"
+          ],
+          "updated": "2021-02-13T00:00:00+00:00",
+          "updatedParsed": "2021-02-13T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-02-13-adding-a-repurposed-caps-lock-as-a-third-mod-key-in-i3.gmi"
+        },
+        {
+          "title": "Pen and Paper",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-03-13-pen-and-paper.gmi"
+          ],
+          "updated": "2021-03-13T00:00:00+00:00",
+          "updatedParsed": "2021-03-13T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-03-13-pen-and-paper.gmi"
+        }
+      ],
+      "feedType": "atom",
+      "feedVersion": "1.0"
+    },
+    "gemini://idiomdrottning.org/atom.xml": {
+      "title": "Idiomdrottning",
+      "feedLink": "gemini://idiomdrottning.org/atom.xml",
+      "updated": "2021-09-15 09:36:51 +0200",
+      "updatedParsed": "2021-09-15T07:36:51Z",
+      "author": {
+        "name": "Idiomdrottning",
+        "email": "sandra.snan@idiomdrottning.org"
+      },
+      "items": [
+        {
+          "title": "Towards a sweet spot of urgency",
+          "links": [
+            "gemini://idiomdrottning.org/urgency"
+          ],
+          "updated": "2021-09-15 09:36:51 +0200",
+          "updatedParsed": "2021-09-15T07:36:51Z",
+          "guid": "gemini://idiomdrottning.org/urgency"
+        },
+        {
+          "title": "Article writing rules",
+          "links": [
+            "gemini://idiomdrottning.org/article-writing-rules"
+          ],
+          "updated": "2021-09-15 08:56:21 +0200",
+          "updatedParsed": "2021-09-15T06:56:21Z",
+          "guid": "gemini://idiomdrottning.org/article-writing-rules"
+        },
+        {
+          "title": "Re: What are people using Matrix for?",
+          "links": [
+            "gemini://idiomdrottning.org/re-what-are-people-using-matrix-for"
+          ],
+          "updated": "2021-09-15 07:28:53 +0200",
+          "updatedParsed": "2021-09-15T05:28:53Z",
+          "guid": "gemini://idiomdrottning.org/re-what-are-people-using-matrix-for"
+        },
+        {
+          "title": "Re: Why I Put So Much Effort Into This Capsule",
+          "links": [
+            "gemini://idiomdrottning.org/re-why-this-capsule"
+          ],
+          "updated": "2021-09-12 23:44:50 +0200",
+          "updatedParsed": "2021-09-12T21:44:50Z",
+          "guid": "gemini://idiomdrottning.org/re-why-this-capsule"
+        },
+        {
+          "title": "What happened to the world of tomorrow?",
+          "links": [
+            "gemini://idiomdrottning.org/world-of-tomorrow"
+          ],
+          "updated": "2021-09-12 12:48:28 +0200",
+          "updatedParsed": "2021-09-12T10:48:28Z",
+          "guid": "gemini://idiomdrottning.org/world-of-tomorrow"
+        },
+        {
+          "title": "Re: productivity (and lack thereof)",
+          "links": [
+            "gemini://idiomdrottning.org/re-productivity"
+          ],
+          "updated": "2021-09-10 08:57:29 +0200",
+          "updatedParsed": "2021-09-10T06:57:29Z",
+          "guid": "gemini://idiomdrottning.org/re-productivity"
+        },
+        {
+          "title": "Radically transparent DM-ing",
+          "links": [
+            "gemini://idiomdrottning.org/radical-transparency"
+          ],
+          "updated": "2021-09-10 07:24:30 +0200",
+          "updatedParsed": "2021-09-10T05:24:30Z",
+          "guid": "gemini://idiomdrottning.org/radical-transparency"
+        },
+        {
+          "title": "Re: Some article formatting standards for gemtext",
+          "links": [
+            "gemini://idiomdrottning.org/re-article-conventions"
+          ],
+          "updated": "2021-09-05 13:46:06 +0200",
+          "updatedParsed": "2021-09-05T11:46:06Z",
+          "guid": "gemini://idiomdrottning.org/re-article-conventions"
+        },
+        {
+          "title": "gemrefinder",
+          "links": [
+            "gemini://idiomdrottning.org/gemrefinder"
+          ],
+          "updated": "2021-08-21 17:57:11 +0200",
+          "updatedParsed": "2021-08-21T15:57:11Z",
+          "guid": "gemini://idiomdrottning.org/gemrefinder"
+        },
+        {
+          "title": "call table literals",
+          "links": [
+            "gemini://idiomdrottning.org/call-table-literals"
+          ],
+          "updated": "2021-08-20 23:00:59 +0200",
+          "updatedParsed": "2021-08-20T21:00:59Z",
+          "guid": "gemini://idiomdrottning.org/call-table-literals"
+        }
+      ],
+      "feedType": "atom",
+      "feedVersion": "1.0"
+    }
+  },
+  "pages": {
+    "gemini://friendo.monster/": {
+      "hash": "893ebcff29d29cf9042e9c4bd2c062446666cf98430a730a35576b32abda96fb",
+      "changed": "2021-09-12T16:19:46.635065215Z"
+    }
+  }
+}
