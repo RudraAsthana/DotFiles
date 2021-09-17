@@ -136,9 +136,12 @@ alias configu='config add -u'
 alias gitu='git add -u'
 
 
-#aliases to save me from doing dangerous stuff
+# aliases to save me from doing dangerous stuff
 alias mv='mv -i'
 alias rm='rm -i'
 alias cp='cp -i'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+export EDITOR='code'
+export PATH="$HOME/.emacs.d/bin:$PATH" 

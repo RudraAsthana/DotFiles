@@ -107,13 +107,22 @@
     "gemini://idiomdrottning.org/atom.xml": {
       "title": "Idiomdrottning",
       "feedLink": "gemini://idiomdrottning.org/atom.xml",
-      "updated": "2021-09-15 09:36:51 +0200",
-      "updatedParsed": "2021-09-15T07:36:51Z",
+      "updated": "2021-09-16 10:35:51 +0200",
+      "updatedParsed": "2021-09-16T08:35:51Z",
       "author": {
         "name": "Idiomdrottning",
         "email": "sandra.snan@idiomdrottning.org"
       },
       "items": [
+        {
+          "title": "Breaking Things at Work",
+          "links": [
+            "gemini://idiomdrottning.org/breaking-things-at-work"
+          ],
+          "updated": "2021-09-16 10:35:51 +0200",
+          "updatedParsed": "2021-09-16T08:35:51Z",
+          "guid": "gemini://idiomdrottning.org/breaking-things-at-work"
+        },
         {
           "title": "Towards a sweet spot of urgency",
           "links": [
@@ -194,15 +203,6 @@
           "updated": "2021-08-21 17:57:11 +0200",
           "updatedParsed": "2021-08-21T15:57:11Z",
           "guid": "gemini://idiomdrottning.org/gemrefinder"
-        },
-        {
-          "title": "call table literals",
-          "links": [
-            "gemini://idiomdrottning.org/call-table-literals"
-          ],
-          "updated": "2021-08-20 23:00:59 +0200",
-          "updatedParsed": "2021-08-20T21:00:59Z",
-          "guid": "gemini://idiomdrottning.org/call-table-literals"
         }
       ],
       "feedType": "atom",
