@@ -134,7 +134,7 @@ alias config='/usr/bin/git --git-dir=$HOME/DotFiles/ --work-tree=$HOME'
     complete -F _complete_alias config
 alias configu='config add -u'
 alias gitu='git add -u'
-
+alias emacs='emacs -mm'
 
 # aliases to save me from doing dangerous stuff
 alias mv='mv -i'
