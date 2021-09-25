@@ -135,13 +135,13 @@ alias config='/usr/bin/git --git-dir=$HOME/DotFiles/ --work-tree=$HOME'
 alias configu='config add -u'
 alias gitu='git add -u'
 alias emacs='emacs -mm'
-
+alias nvim='./.local/bin/nvim.appimage'
 # aliases to save me from doing dangerous stuff
 alias mv='mv -i'
 alias rm='rm -i'
 alias cp='cp -i'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-
+export PATH="~/.local/share/nvim/site/pack/packer/start/packer.nvim:$PATH"
 export EDITOR='code'
 export PATH="$HOME/.emacs.d/bin:$PATH" 

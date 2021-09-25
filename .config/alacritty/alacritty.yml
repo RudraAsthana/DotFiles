@@ -8,19 +8,19 @@ import:
 
 font:
   normal:
-    family: 'JetBrains Mono'
-    style: Medium
+    family: 'JetBrainsMono Nerd Font'
+    style: Medium 
     
   bold:
-    family: 'JetBrains Mono'
+    family: 'JetBrainsMono Nerd Font'
     style: Bold
 
   italic:
-    family: 'JetBrains Mono'
+    family: 'JetBrainsMono Nerd Font'
     style: Medium Italic
    
   bold_italic:
-    family: 'JetBrains Mono'
+    family: 'JetBrainsMono Nerd Font'
     style: Bold Italic
 
   size: 12
