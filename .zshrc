@@ -119,6 +119,7 @@ export PATH=$HOME/gems/bin:$PATH
 export DENO_INSTALL="/home/rudraasthana/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
 
+# Node version Manger exports
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
@@ -135,7 +136,8 @@ alias config='/usr/bin/git --git-dir=$HOME/DotFiles/ --work-tree=$HOME'
 alias configu='config add -u'
 alias gitu='git add -u'
 alias emacs='emacs -mm'
-alias nvim='./.local/bin/nvim.appimage'
+alias nvim='/home/rudraasthana/.local/bin/nvim.appimage'
+alias prettier='prettier -w' 
 # aliases to save me from doing dangerous stuff
 alias mv='mv -i'
 alias rm='rm -i'
@@ -143,5 +145,5 @@ alias cp='cp -i'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export PATH="~/.local/share/nvim/site/pack/packer/start/packer.nvim:$PATH"
-export EDITOR='code'
+export EDITOR='/home/rudraasthana/.local/bin/nvim.appimage'
 export PATH="$HOME/.emacs.d/bin:$PATH" 
