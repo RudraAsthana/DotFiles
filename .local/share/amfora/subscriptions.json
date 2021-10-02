@@ -107,13 +107,58 @@
     "gemini://idiomdrottning.org/atom.xml": {
       "title": "Idiomdrottning",
       "feedLink": "gemini://idiomdrottning.org/atom.xml",
-      "updated": "2021-09-25 09:44:48 +0200",
-      "updatedParsed": "2021-09-25T07:44:48Z",
+      "updated": "2021-09-30 09:06:12 +0200",
+      "updatedParsed": "2021-09-30T07:06:12Z",
       "author": {
         "name": "Idiomdrottning",
         "email": "sandra.snan@idiomdrottning.org"
       },
       "items": [
+        {
+          "title": "Scheme, if you already know how to program other stuff",
+          "links": [
+            "gemini://idiomdrottning.org/scheme-if-you-already-know-how-to-program-other-stuff"
+          ],
+          "updated": "2021-09-30 09:06:12 +0200",
+          "updatedParsed": "2021-09-30T07:06:12Z",
+          "guid": "gemini://idiomdrottning.org/scheme-if-you-already-know-how-to-program-other-stuff"
+        },
+        {
+          "title": "Re: criticisms while attempting to learn lisp",
+          "links": [
+            "gemini://idiomdrottning.org/re-criticisms-while-attempting-to-learn-lisp"
+          ],
+          "updated": "2021-09-30 09:04:55 +0200",
+          "updatedParsed": "2021-09-30T07:04:55Z",
+          "guid": "gemini://idiomdrottning.org/re-criticisms-while-attempting-to-learn-lisp"
+        },
+        {
+          "title": "Also cap and trade sucks",
+          "links": [
+            "gemini://idiomdrottning.org/cap-and-trade"
+          ],
+          "updated": "2021-09-29 07:32:33 +0200",
+          "updatedParsed": "2021-09-29T05:32:33Z",
+          "guid": "gemini://idiomdrottning.org/cap-and-trade"
+        },
+        {
+          "title": "All a phone needs to do",
+          "links": [
+            "gemini://idiomdrottning.org/phone-features"
+          ],
+          "updated": "2021-09-28 22:23:40 +0200",
+          "updatedParsed": "2021-09-28T20:23:40Z",
+          "guid": "gemini://idiomdrottning.org/phone-features"
+        },
+        {
+          "title": "Why D\u0026D over other RPGs?",
+          "links": [
+            "gemini://idiomdrottning.org/why-dnd"
+          ],
+          "updated": "2021-09-28 13:36:47 +0200",
+          "updatedParsed": "2021-09-28T11:36:47Z",
+          "guid": "gemini://idiomdrottning.org/why-dnd"
+        },
         {
           "title": "Art, in three ways",
           "links": [
@@ -158,51 +203,6 @@
           "updated": "2021-09-21 17:05:18 +0200",
           "updatedParsed": "2021-09-21T15:05:18Z",
           "guid": "gemini://idiomdrottning.org/replying-to-replies"
-        },
-        {
-          "title": "Whitespace philosophy (for Lisp stuff)",
-          "links": [
-            "gemini://idiomdrottning.org/lisp-whitespace"
-          ],
-          "updated": "2021-09-21 09:50:02 +0200",
-          "updatedParsed": "2021-09-21T07:50:02Z",
-          "guid": "gemini://idiomdrottning.org/lisp-whitespace"
-        },
-        {
-          "title": "Re: Software and Branding",
-          "links": [
-            "gemini://idiomdrottning.org/re-branding"
-          ],
-          "updated": "2021-09-20 16:51:27 +0200",
-          "updatedParsed": "2021-09-20T14:51:27Z",
-          "guid": "gemini://idiomdrottning.org/re-branding"
-        },
-        {
-          "title": "Re: Reflections on using a plaintext email client",
-          "links": [
-            "gemini://idiomdrottning.org/re-plaintext-email"
-          ],
-          "updated": "2021-09-20 16:29:13 +0200",
-          "updatedParsed": "2021-09-20T14:29:13Z",
-          "guid": "gemini://idiomdrottning.org/re-plaintext-email"
-        },
-        {
-          "title": "P-Zombies",
-          "links": [
-            "gemini://idiomdrottning.org/p-zombies"
-          ],
-          "updated": "2021-09-20 14:34:15 +0200",
-          "updatedParsed": "2021-09-20T12:34:15Z",
-          "guid": "gemini://idiomdrottning.org/p-zombies"
-        },
-        {
-          "title": "Re: Small request to Geminauts",
-          "links": [
-            "gemini://idiomdrottning.org/re-small-request-to-geminauts"
-          ],
-          "updated": "2021-09-17 10:49:22 +0200",
-          "updatedParsed": "2021-09-17T08:49:22Z",
-          "guid": "gemini://idiomdrottning.org/re-small-request-to-geminauts"
         }
       ],
       "feedType": "atom",
