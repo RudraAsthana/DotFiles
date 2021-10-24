@@ -20,7 +20,7 @@ auto_redirect = false
 # What command to run to open a HTTP(S) URL.
 # The best to define a command is using a string array.
 # Examples:
-# http = ['firefox']
+# http = ['brave-browser']
 # http = ['custom-browser', '--flag', '--option=2']
 # http = ['/path/with spaces/in it/firefox']
 #

@@ -3,22 +3,13 @@
     "gemini://gemini.lottalinuxlinks.com/posts/feed.xml": {
       "title": "Gemlog Archive",
       "feedLink": "gemini://gemini.lottalinuxlinks.com/posts/feed.xml",
-      "updated": "2021-03-13T00:00:00+00:00",
-      "updatedParsed": "2021-03-13T00:00:00Z",
+      "updated": "2021-10-13T00:00:00+00:00",
+      "updatedParsed": "2021-10-13T00:00:00Z",
       "author": {
         "name": "dsyates",
         "email": "dsyates@lottalinuxlinks.com"
       },
       "items": [
-        {
-          "title": "Underground Hacking, Madness, and Obsession on the Electronic Frontier",
-          "links": [
-            "gemini://gemini.lottalinuxlinks.com/posts/2021-01-14-underground-book.gmi"
-          ],
-          "updated": "2021-01-14T00:00:00+00:00",
-          "updatedParsed": "2021-01-14T00:00:00Z",
-          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-01-14-underground-book.gmi"
-        },
         {
           "title": "checkrestart and needrestart",
           "links": [
@@ -99,6 +90,15 @@
           "updated": "2021-03-13T00:00:00+00:00",
           "updatedParsed": "2021-03-13T00:00:00Z",
           "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-03-13-pen-and-paper.gmi"
+        },
+        {
+          "title": "Sid to Arch",
+          "links": [
+            "gemini://gemini.lottalinuxlinks.com/posts/2021-10-13-sid-to-arch.gmi"
+          ],
+          "updated": "2021-10-13T00:00:00+00:00",
+          "updatedParsed": "2021-10-13T00:00:00Z",
+          "guid": "gemini://gemini.lottalinuxlinks.com/posts/2021-10-13-sid-to-arch.gmi"
         }
       ],
       "feedType": "atom",
@@ -107,102 +107,102 @@
     "gemini://idiomdrottning.org/atom.xml": {
       "title": "Idiomdrottning",
       "feedLink": "gemini://idiomdrottning.org/atom.xml",
-      "updated": "2021-09-30 09:06:12 +0200",
-      "updatedParsed": "2021-09-30T07:06:12Z",
+      "updated": "2021-10-16 10:30:28 +0200",
+      "updatedParsed": "2021-10-16T08:30:28Z",
       "author": {
         "name": "Idiomdrottning",
         "email": "sandra.snan@idiomdrottning.org"
       },
       "items": [
         {
-          "title": "Scheme, if you already know how to program other stuff",
+          "title": "Gemini Ain't Broke",
           "links": [
-            "gemini://idiomdrottning.org/scheme-if-you-already-know-how-to-program-other-stuff"
+            "gemini://idiomdrottning.org/gemini-aint-broke"
           ],
-          "updated": "2021-09-30 09:06:12 +0200",
-          "updatedParsed": "2021-09-30T07:06:12Z",
-          "guid": "gemini://idiomdrottning.org/scheme-if-you-already-know-how-to-program-other-stuff"
+          "updated": "2021-10-16 10:30:28 +0200",
+          "updatedParsed": "2021-10-16T08:30:28Z",
+          "guid": "gemini://idiomdrottning.org/gemini-aint-broke"
         },
         {
-          "title": "Re: criticisms while attempting to learn lisp",
+          "title": "Color Gin",
           "links": [
-            "gemini://idiomdrottning.org/re-criticisms-while-attempting-to-learn-lisp"
+            "gemini://idiomdrottning.org/color-gin"
           ],
-          "updated": "2021-09-30 09:04:55 +0200",
-          "updatedParsed": "2021-09-30T07:04:55Z",
-          "guid": "gemini://idiomdrottning.org/re-criticisms-while-attempting-to-learn-lisp"
+          "updated": "2021-10-16 00:09:59 +0200",
+          "updatedParsed": "2021-10-15T22:09:59Z",
+          "guid": "gemini://idiomdrottning.org/color-gin"
         },
         {
-          "title": "Also cap and trade sucks",
+          "title": "Re: Mark It Down",
           "links": [
-            "gemini://idiomdrottning.org/cap-and-trade"
+            "gemini://idiomdrottning.org/re-mark-it-down"
           ],
-          "updated": "2021-09-29 07:32:33 +0200",
-          "updatedParsed": "2021-09-29T05:32:33Z",
-          "guid": "gemini://idiomdrottning.org/cap-and-trade"
+          "updated": "2021-10-14 10:54:40 +0200",
+          "updatedParsed": "2021-10-14T08:54:40Z",
+          "guid": "gemini://idiomdrottning.org/re-mark-it-down"
         },
         {
-          "title": "All a phone needs to do",
+          "title": "Re: Smartphones vs Real Cameras",
           "links": [
-            "gemini://idiomdrottning.org/phone-features"
+            "gemini://idiomdrottning.org/re-smartphones-vs-real-cameras"
           ],
-          "updated": "2021-09-28 22:23:40 +0200",
-          "updatedParsed": "2021-09-28T20:23:40Z",
-          "guid": "gemini://idiomdrottning.org/phone-features"
+          "updated": "2021-10-13 14:34:39 +0200",
+          "updatedParsed": "2021-10-13T12:34:39Z",
+          "guid": "gemini://idiomdrottning.org/re-smartphones-vs-real-cameras"
         },
         {
-          "title": "Why D\u0026D over other RPGs?",
+          "title": "Re: Offmini, My Dream of Making Gemini Offline and Distributed",
           "links": [
-            "gemini://idiomdrottning.org/why-dnd"
+            "gemini://idiomdrottning.org/re-offmini"
           ],
-          "updated": "2021-09-28 13:36:47 +0200",
-          "updatedParsed": "2021-09-28T11:36:47Z",
-          "guid": "gemini://idiomdrottning.org/why-dnd"
+          "updated": "2021-10-11 10:18:22 +0200",
+          "updatedParsed": "2021-10-11T08:18:22Z",
+          "guid": "gemini://idiomdrottning.org/re-offmini"
         },
         {
-          "title": "Art, in three ways",
+          "title": "Re: Current direction",
           "links": [
-            "gemini://idiomdrottning.org/art-in-three-ways"
+            "gemini://idiomdrottning.org/re-current-direction"
           ],
-          "updated": "2021-09-25 09:44:48 +0200",
-          "updatedParsed": "2021-09-25T07:44:48Z",
-          "guid": "gemini://idiomdrottning.org/art-in-three-ways"
+          "updated": "2021-10-11 09:54:29 +0200",
+          "updatedParsed": "2021-10-11T07:54:29Z",
+          "guid": "gemini://idiomdrottning.org/re-current-direction"
         },
         {
-          "title": "When worse got better",
+          "title": "PDA vs books",
           "links": [
-            "gemini://idiomdrottning.org/worse-got-better"
+            "gemini://idiomdrottning.org/pda-vs-books"
           ],
-          "updated": "2021-09-25 09:18:49 +0200",
-          "updatedParsed": "2021-09-25T07:18:49Z",
-          "guid": "gemini://idiomdrottning.org/worse-got-better"
+          "updated": "2021-10-11 09:17:17 +0200",
+          "updatedParsed": "2021-10-11T07:17:17Z",
+          "guid": "gemini://idiomdrottning.org/pda-vs-books"
         },
         {
-          "title": "It's been late-stage capitalism for a while now",
+          "title": "My political self-caricature",
           "links": [
-            "gemini://idiomdrottning.org/late-stage-capitalism"
+            "gemini://idiomdrottning.org/my-political-self-caricature"
           ],
-          "updated": "2021-09-22 08:28:51 +0200",
-          "updatedParsed": "2021-09-22T06:28:51Z",
-          "guid": "gemini://idiomdrottning.org/late-stage-capitalism"
+          "updated": "2021-10-09 01:12:48 +0200",
+          "updatedParsed": "2021-10-08T23:12:48Z",
+          "guid": "gemini://idiomdrottning.org/my-political-self-caricature"
         },
         {
-          "title": "It sucks on screenreaders",
+          "title": "Free speech, vs itself",
           "links": [
-            "gemini://idiomdrottning.org/it-sucks-on-screenreaders"
+            "gemini://idiomdrottning.org/free-speech-vs-itself"
           ],
-          "updated": "2021-09-21 22:34:12 +0200",
-          "updatedParsed": "2021-09-21T20:34:12Z",
-          "guid": "gemini://idiomdrottning.org/it-sucks-on-screenreaders"
+          "updated": "2021-10-09 00:25:16 +0200",
+          "updatedParsed": "2021-10-08T22:25:16Z",
+          "guid": "gemini://idiomdrottning.org/free-speech-vs-itself"
         },
         {
-          "title": "Replying to replies",
+          "title": "The Appeal of Online",
           "links": [
-            "gemini://idiomdrottning.org/replying-to-replies"
+            "gemini://idiomdrottning.org/online"
           ],
-          "updated": "2021-09-21 17:05:18 +0200",
-          "updatedParsed": "2021-09-21T15:05:18Z",
-          "guid": "gemini://idiomdrottning.org/replying-to-replies"
+          "updated": "2021-10-07 07:48:53 +0200",
+          "updatedParsed": "2021-10-07T05:48:53Z",
+          "guid": "gemini://idiomdrottning.org/online"
         }
       ],
       "feedType": "atom",

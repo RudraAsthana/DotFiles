@@ -123,7 +123,7 @@ export PATH="$DENO_INSTALL/bin:$PATH"
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
+export PATH="$HOME/bin:$PATH"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
@@ -139,14 +139,15 @@ alias emacs='emacs -mm'
 alias nvim='/home/rudraasthana/.local/bin/nvim.appimage'
 alias prettier='prettier -w' 
 # aliases to save me from doing dangerous stuff
+alias rm -rf='echo no no no no do a loldel'
 alias mv='mv -i'
 alias rm='rm -i'
 alias cp='cp -i'
-
+alias loldel='rm -rf'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export PATH="~/.local/share/nvim/site/pack/packer/start/packer.nvim:$PATH"
 export EDITOR='/home/rudraasthana/.local/bin/nvim.appimage'
 export PATH="$HOME/.emacs.d/bin:$PATH"
 
-# rxfetch a neofetch alternative
-rxfetch
+ENV='$HOME/.env' 
+export GIHUB_TOKEN='.env'
