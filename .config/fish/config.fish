@@ -11,4 +11,6 @@ alias config="/usr/bin/git --git-dir=$HOME/DotFiles/ --work-tree=$HOME"
 alias configu="config add -u"
 alias gitu="git add -u"
 alias nvim="nvim.appimage"
+set -x PATH  "~/.emacs.d/bin" $PATH
+
 

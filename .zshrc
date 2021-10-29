@@ -148,6 +148,3 @@ alias loldel='rm -rf'
 export PATH="~/.local/share/nvim/site/pack/packer/start/packer.nvim:$PATH"
 export EDITOR='/home/rudraasthana/.local/bin/nvim.appimage'
 export PATH="$HOME/.emacs.d/bin:$PATH"
-
-ENV='$HOME/.env' 
-export GIHUB_TOKEN='.env'
