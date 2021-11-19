@@ -4,8 +4,7 @@
 #  |____|__| |__|__|__|__|_____|_____|__|__|___._|____|_____|   
 
 import:
-  - /home/rudraasthana/alacritty-master/dracula.yml
-
+  - ~/.config/alacritty/colors.yml
 font:
   normal:
     family: 'JetBrainsMono Nerd Font'
@@ -23,11 +22,10 @@ font:
     family: 'JetBrainsMono Nerd Font'
     style: Bold Italic
 
-  size: 12
+  size: 11
 
-padding:
-    x: 6
-    y: 6
-
-
-dynamic_padding: false
+window:
+  padding:
+    x: 8
+    y: 8
+  dynamic_padding: true
